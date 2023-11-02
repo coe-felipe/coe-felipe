@@ -1,6 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Coelho+Silva;I'm+15+years+old;I+am+from+Brumado,+BA;I+study+T.I;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/felipesilva/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development to frontend development, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I am an <strong>IT student</strong> focused on web development.</p>&nbsp;
  
