@@ -12,6 +12,8 @@
 
 ## My Skills
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 #### Main Stack:
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,8 +49,6 @@
 ### Some Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
