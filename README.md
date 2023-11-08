@@ -44,6 +44,9 @@
 
 </div>
 
+### Some Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marqsc&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqsc&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
