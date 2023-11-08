@@ -50,14 +50,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 
-#### Studying in this moment:
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
-
-&nbsp;
-&nbsp;
-
 ## Contacts:
 
 <div> 
