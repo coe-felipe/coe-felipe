@@ -46,14 +46,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsilva15&show_icons=true&theme=dark)](https://github.com/felipecsilva15/github-readme-stats)
 
-## Contacts:
-
-<div> 
-<a href=[https://www.instagram.com/felipecsilva15/](https://www.instagram.com/felipecsilva15/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.felipecsilva.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
 
   
   
