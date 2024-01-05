@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Coelho+Silva;I'm+15+years+old;I+am+from+Brumado,+BA;I+study+T.I;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development to frontend development, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I am an <strong>IT student</strong> focused on web development.</p>&nbsp;
+<p align="center">Hi, my name is Felipe and I am studying IT at IFBA and soon I will be a good professional in the area of ​​computer science</p>&nbsp;
  
  &nbsp;
  &nbsp;
