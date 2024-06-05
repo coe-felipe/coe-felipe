@@ -29,25 +29,5 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
-
-  ### Ferramentas
-  
-  <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-         
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
- <img align="center" alt="IntelliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
-
-</div>
-
-
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
