@@ -28,7 +28,7 @@
   
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-  <img align="center" alt="C++" height="30" width="40" src="http://www.w3.org/2000/svg"/>
+  <img align="center" alt="C++" height="30" width="40" src="https://img.icons8.com/?size=256&id=40669&format=png"/>
           
   </div>
 
