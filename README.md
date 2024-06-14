@@ -1,4 +1,4 @@
-<p align="center">Hi, my name is Felipe and I am studying IT at IFBA and soon I will be a good professional in the area of ​​computer science.</p>&nbsp;
+<p align="">Hi, my name is Felipe and I am studying IT at IFBA and soon I will be a good professional in the area of ​​computer science.</p>&nbsp;
  
  &nbsp;
  &nbsp;
