@@ -1,7 +1,4 @@
 <p align="">Hi, my name is Felipe and I am studying IT at IFBA and soon I will be a good professional in the area of ​​computer science.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
 
 <div>
   <img align="" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
