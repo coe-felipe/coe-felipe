@@ -2,7 +2,7 @@
 
 <div>
   <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
-  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs">
 </div>
 
 
