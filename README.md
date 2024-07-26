@@ -1,7 +1,7 @@
 ## Olá eu sou a Felipe Coelho, criador de conteúdo de programação e tecnologia!
 
 <div>
-  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=cor-felipe&show_icons=true">
+  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=coe-felipe&show_icons=true">
   <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coe-felipe&langs_count=8">
 </div>
 
