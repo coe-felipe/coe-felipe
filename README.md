@@ -1,8 +1,8 @@
 ## Olá eu sou a Felipe Coelho, criador de conteúdo de programação e tecnologia!
 
 <div>
-  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
-  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8">
+  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?coe-felipe=anuraghazra&show_icons=true">
+  <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?coe-felipe=anuraghazra&langs_count=8">
 </div>
 
 
