@@ -1,4 +1,4 @@
-## Olá eu sou a Felipe Coelho, criador de conteúdo de programação e tecnologia!
+## Olá eu sou a Felipe Coelho, cursando técnico em informatica.
 
 <div>
   <img align="center" alt="flp" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=coe-felipe&show_icons=true">
