@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecsilva15&show_icons=true&theme=tokyonight)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=coe-felipe&show_icons=true&theme=tokyonight)
 
 ---
 
